@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function Home() {
   return (
-    <main className="p-5 text-lg font-semibold leading-10 text-yellow-200 flex flex-col gap-5">
+    <main className="p-5 text-lg font-semibold leading-10 text-yellow-200 flex flex-col gap-5 text-justify">
       <h1 className="text-2xl mt-5">Sayang ntar dibaca ya 🫶🫶🫶</h1>
       <p className="py-4">------------------------------------</p>
       <p className="indent-4">
